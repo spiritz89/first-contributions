@@ -6,6 +6,7 @@
 - Mostafa Anter(https://github.com/MostafaAnter)
 - [Mehmet Can Demir](https://github.com/mcandemir)
 - Dracula Tepes
+- Augustin Chiam
 - [tempixtl](https://github.com/tempixtl)
 - Marcell Gibbs(https://github.com/0silverback0)
 - [Hermino Junior](https://github.com/hermino)
